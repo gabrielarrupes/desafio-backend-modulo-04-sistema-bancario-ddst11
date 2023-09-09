@@ -1,5 +1,5 @@
-const app = require("./servidor");
-const router = require("./rotas");
+const app = require("./server");
+const router = require("./router");
 
 app.use(router);
 

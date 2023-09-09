@@ -12,7 +12,7 @@
     "url": "git+https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11.git"
   },
   "keywords": [],
-  "author": "Gabriela Arrupes / Paulo Maia",
+  "author": "Gabriela Arrupes / Felipe Teixeira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11/issues"
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "joi": "^17.10.1",
     "nodemon": "^2.0.22"
   }
 }

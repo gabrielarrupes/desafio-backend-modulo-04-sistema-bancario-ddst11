@@ -6,6 +6,7 @@ let {
   transferencias,
 } = require("../bancodedados");
 
+
 const showAccount = async (req, res) => {
   try {
     const { senha_banco } = req.query;
